@@ -1,4 +1,4 @@
-(async () => {
+JavaScript:(async () => {
     _blsbu = "https://example.com";
     var wfcall = window.fetch.call;
     window.fetch.call = function() {
@@ -176,7 +176,7 @@
             fontWeight: "700",
             userSelect: "text"
         },
-        innerHTML: "GitHub - DevShadows",
+        innerHTML: "GitHub - Dumpster Fire",
         onclick: () => window.open("https://github.com/DevShadows/Fresh-Blooket-Hacks", "_blank").focus()
     }), $ = l("div", {
         id: "controlButtons",
